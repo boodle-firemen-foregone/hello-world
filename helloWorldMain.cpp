@@ -1,9 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main (int argv, char* argv)
+void main ()
 {
   cout << "Hello World";
-  cout << "\nI am a C++ program" << endl;
-  return 0;
 }
